@@ -1,46 +1,13 @@
 import React, { useState } from "react";
 import Footer from "@/components/footer";
 import Head from "next/head";
+import SEOMeta from "@/components/SEOMeta";
 
 const Home = () => {
 
   return (
     <div>
-      <Head>
-        <title>WHOIS_OS</title>
-        <meta name="title" content="WHOIS OS - " />
-        <meta
-          name="description"
-          content="WHOIS Domain Lookup, Nameserver Lookup & IP Tools"
-        />
-
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://whoisos.com/" />
-        <meta property="og:title" content="WHOIS_OS" />
-        <meta
-          property="og:description"
-          content="WHOIS Domain Lookup, Nameserver Lookup & IP Tools"
-        />
-        <meta
-          property="og:image"
-          content="https://whoisos.com/whois-cover.png"
-        />
-
-        <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://whoisos.com/" />
-        <meta property="twitter:title" content="WHOIS_OS" />
-        <meta
-          property="twitter:description"
-          content="WHOIS Domain Lookup, Nameserver Lookup & IP Tools"
-        />
-        <meta
-          property="twitter:image"
-          content="https://whoisos.com/whois-cover.png"
-        />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-
-        <link rel="icon" href="https://whoisos.com/favicon.png" />
-      </Head>
+      <SEOMeta />
       <main className="m-auto flex max-w-5xl flex-col px-4">
         <nav className="flex row justify-between items-center py-4">
           <a href="/">
