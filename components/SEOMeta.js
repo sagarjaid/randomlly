@@ -2,14 +2,14 @@ import React from 'react'
 import Head from "next/head";
 
 
-const SEOMeta = () => {
+const SEOMeta = ({ title, description, url }) => {
     return (
         <Head>
-            <title>WHOIS_OS</title>
-            <meta name="title" content="WHOIS OS - " />
+            <title>{title}</title>
+            <meta name="title" content={title} />
             <meta
                 name="description"
-                content="WHOIS Domain Lookup, Nameserver Lookup & IP Tools"
+                content={description}
             />
 
             <meta property="og:type" content="website" />
@@ -17,7 +17,7 @@ const SEOMeta = () => {
             <meta property="og:title" content="WHOIS_OS" />
             <meta
                 property="og:description"
-                content="WHOIS Domain Lookup, Nameserver Lookup & IP Tools"
+                content={description}
             />
             <meta
                 property="og:image"
@@ -29,7 +29,7 @@ const SEOMeta = () => {
             <meta property="twitter:title" content="WHOIS_OS" />
             <meta
                 property="twitter:description"
-                content="WHOIS Domain Lookup, Nameserver Lookup & IP Tools"
+                content={description}
             />
             <meta
                 property="twitter:image"

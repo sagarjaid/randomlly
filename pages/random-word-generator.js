@@ -29,7 +29,7 @@ const Home = () => {
 
   return (
     <div>
-      <SEOMeta />
+      <SEOMeta title="Random Word Generator" description="Random Word Generator" />
       <main className="m-auto flex max-w-5xl flex-col px-4">
         <nav className="flex row justify-between items-center py-4">
           <a href="/">

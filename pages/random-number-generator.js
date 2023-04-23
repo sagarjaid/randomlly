@@ -28,7 +28,7 @@ const Home = () => {
 
   return (
     <div>
-      <SEOMeta />
+      <SEOMeta title="Random Number Generator" description="Random Number Generator" />
       <main className="m-auto flex max-w-5xl flex-col px-4">
         <nav className="flex row justify-between items-center py-4">
           <a href="/">
