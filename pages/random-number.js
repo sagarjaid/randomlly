@@ -48,7 +48,9 @@ const Home = () => {
 
     switch (selectedOption) {
       case "x-x":
-        setNumbers(faker.datatype.number({ min: minNumber, max: maxNumber }))
+        if (maxNumber > minNumber) {
+          setNumbers(faker.datatype.number({ min: minNumber, max: maxNumber }))
+        }
         break;
       case "x-digit":
 

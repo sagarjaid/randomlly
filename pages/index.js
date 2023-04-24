@@ -13,8 +13,8 @@ const Home = () => {
         <Nav />
         <div className="flex h-screen flex-col gap-8 pt-2">
           <div className="flex flex-col gap-3">
-            <h1 className="text-6xl font-extrabold text-center pt-20">Random.lly</h1>
-            <div className="text-xl text-center">words best random generator</div>
+            <h1 className="text-6xl font-extrabold text-center pt-20">Randomlly</h1>
+            <div className="text-xl text-center">Random Generator</div>
           </div>
 
           <div className="flex flex-col justify-center items-center flex-wrap gap-4">

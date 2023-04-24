@@ -6,42 +6,42 @@ const TC = () => {
   return (
     <>
       <Head>
-        <title>Terms and Conditions — WHOIS OS</title>
-        <meta name="title" content="Terms and Conditions — WHOIS OS" />
+        <title>Terms and Conditions — Randomlly</title>
+        <meta name="title" content="Terms and Conditions — Randomlly" />
         <meta
           name="description"
-          content="WHOIS Domain Lookup, Nameserver Lookup & IP Tools"
+          content="Random number generator, Random word generator (randomlly.com)"
         />
 
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://whoisos.com/tc" />
-        <meta property="og:title" content="Terms and Conditions — WHOIS OS" />
+        <meta property="og:url" content="https://randomlly.com/tc" />
+        <meta property="og:title" content="Terms and Conditions — Randomlly" />
         <meta
           property="og:description"
-          content="WHOIS Domain Lookup, Nameserver Lookup & IP Tools"
+          content="Random number generator, Random word generator (randomlly.com)"
         />
         <meta
           property="og:image"
-          content="https://whoisos.com/whois-cover.png"
+          content="https://randomlly.com/cover.png"
         />
 
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://whoisos.com/tc" />
+        <meta property="twitter:url" content="https://randomlly.com/tc" />
         <meta
           property="twitter:title"
-          content="Terms and Conditions — WHOIS OS"
+          content="Terms and Conditions — Randomlly"
         />
         <meta
           property="twitter:description"
-          content="WHOIS Domain Lookup, Nameserver Lookup & IP Tools"
+          content="Random number generator, Random word generator (randomlly.com)"
         />
         <meta
           property="twitter:image"
-          content="https://whoisos.com/whois-cover.png"
+          content="https://randomlly.com/cover.png"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-        <link rel="icon" href="https://whoisos.com/favicon.png" />
+        <link rel="icon" href="https://randomlly.com/favicon.png" />
       </Head>
       <main className="m-auto flex max-w-5xl flex-col px-4">
         <nav className="flex row justify-between items-center py-4">
@@ -77,14 +77,14 @@ const TC = () => {
             <div className="text-sm">Updated on 1 April, 2023</div>
           </div>
           <p>
-            Welcome to WHOIS OS! .These terms and conditions outline the rules
-            and regulations for the use of WHOIS OS's Website, located at
-            https://whoisos.com/.
+            Welcome to Randomlly.com! .These terms and conditions outline the rules
+            and regulations for the use of Randomlly.com's Website, located at
+            https://randomlly.com/.
           </p>
 
           <p>
             By accessing this website we assume you accept these terms and
-            conditions. Do not continue to use WHOIS OS if you do not agree to
+            conditions. Do not continue to use Randomlly.com if you do not agree to
             take all of the terms and conditions stated on this page.
           </p>
 
@@ -111,8 +111,8 @@ const TC = () => {
           </h3>
 
           <p>
-            We employ the use of cookies. By accessing WHOIS OS, you agreed to
-            use cookies in agreement with the WHOIS OS's Privacy Policy.
+            We employ the use of cookies. By accessing Randomlly.com, you agreed to
+            use cookies in agreement with the Randomlly.com's Privacy Policy.
           </p>
 
           <p>
@@ -128,19 +128,19 @@ const TC = () => {
           </h3>
 
           <p>
-            Unless otherwise stated, WHOIS OS and/or its licensors own the
-            intellectual property rights for all material on WHOIS OS. All
+            Unless otherwise stated, Randomlly.com and/or its licensors own the
+            intellectual property rights for all material on Randomlly.com. All
             intellectual property rights are reserved. You may access this from
-            WHOIS OS for your own personal use subjected to restrictions set in
+            Randomlly.com for your own personal use subjected to restrictions set in
             these terms and conditions.
           </p>
 
           <p>You must not:</p>
           <ul>
-            <li>Republish material from WHOIS OS</li>
-            <li>Sell, rent or sub-license material from WHOIS OS</li>
-            <li>Reproduce, duplicate or copy material from WHOIS OS</li>
-            <li>Redistribute content from WHOIS OS</li>
+            <li>Republish material from Randomlly.com</li>
+            <li>Sell, rent or sub-license material from Randomlly.com</li>
+            <li>Reproduce, duplicate or copy material from Randomlly.com</li>
+            <li>Redistribute content from Randomlly.com</li>
           </ul>
 
           <p>This Agreement shall begin on the date hereof.</p>
@@ -148,11 +148,11 @@ const TC = () => {
           <p>
             Parts of this website offer an opportunity for users to post and
             exchange opinions and information in certain areas of the website.
-            WHOIS OS does not filter, edit, publish or review Comments prior to
+            Randomlly.com does not filter, edit, publish or review Comments prior to
             their presence on the website. Comments do not reflect the views and
-            opinions of WHOIS OS,its agents and/or affiliates. Comments reflect
+            opinions of Randomlly.com,its agents and/or affiliates. Comments reflect
             the views and opinions of the person who post their views and
-            opinions. To the extent permitted by applicable laws, WHOIS OS shall
+            opinions. To the extent permitted by applicable laws, Randomlly.com shall
             not be liable for the Comments or for any liability, damages or
             expenses caused and/or suffered as a result of any use of and/or
             posting of and/or appearance of the Comments on this website.
@@ -182,7 +182,7 @@ const TC = () => {
           </ul>
 
           <p>
-            You hereby grant WHOIS OS a non-exclusive license to use, reproduce,
+            You hereby grant Randomlly.com a non-exclusive license to use, reproduce,
             edit and authorize others to use, reproduce and edit any of your
             Comments in any and all forms, formats or media.
           </p>
@@ -242,7 +242,7 @@ const TC = () => {
             that: (a) the link would not make us look unfavorably to ourselves
             or to our accredited businesses; (b) the organization does not have
             any negative records with us; (c) the benefit to us from the
-            visibility of the hyperlink compensates the absence of WHOIS OS; and
+            visibility of the hyperlink compensates the absence of Randomlly.com; and
             (d) the link is in the context of general resource information.
           </p>
 
@@ -257,7 +257,7 @@ const TC = () => {
           <p>
             If you are one of the organizations listed in paragraph 2 above and
             are interested in linking to our website, you must inform us by
-            sending an e-mail to WHOIS OS. Please include your name, your
+            sending an e-mail to Randomlly.com. Please include your name, your
             organization name, contact information as well as the URL of your
             site, a list of any URLs from which you intend to link to our
             Website, and a list of the URLs on our site to which you would like
@@ -277,7 +277,7 @@ const TC = () => {
           </ul>
 
           <p>
-            No use of WHOIS OS's logo or other artwork will be allowed for
+            No use of Randomlly.com's logo or other artwork will be allowed for
             linking absent a trademark license agreement.
           </p>
 

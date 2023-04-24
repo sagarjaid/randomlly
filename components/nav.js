@@ -15,7 +15,7 @@ const Nav = () => {
                 <a href="/random-name-generator" className="hover:font-semibold text-sm  cursor-pointer rounded-full">
                     name
                 </a>
-                <a href="/random-letter-generator" className="hover:font-semibold text-sm  cursor-pointer rounded-full">
+                <a href="/random-number-generator" className="hover:font-semibold text-sm  cursor-pointer rounded-full">
                     number
                 </a>
                 <a href="/random-letter-generator" className="hover:font-semibold text-sm  cursor-pointer rounded-full">
